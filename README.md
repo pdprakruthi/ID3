@@ -70,7 +70,9 @@ Outlook?
 * Implement visualization for the decision tree.
 * Build a simple web interface to interact with the model.
 
-## 🤝 Contributing
+## 🤝 Contributer
+Prakruthi P D
+
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
