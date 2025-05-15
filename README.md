@@ -71,9 +71,9 @@ Outlook?
 * Build a simple web interface to interact with the model.
 
 ## 🤝 Contributer
--[Prakruthi P D](https://github.com/pdprakruthi)
+[Prakruthi P D](https://github.com/pdprakruthi)
 
-under the guidance of Dr Agughasi Victor Ikechukwu
+under the guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu/Victor-Ikechukwu)
 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
